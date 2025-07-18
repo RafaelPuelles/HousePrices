@@ -54,10 +54,12 @@ El modelo que obtuvo el mejor desempeño fue el **Random Forest Regressor**, log
 
 ## Estructura del repositorio
 
+```
 /
 ├── notebooks/             # Contiene el notebook de Google Colab (.ipynb)
 ├── data/                  # (Vacía por defecto) Colocar aquí los datos descargados de Kaggle
 └── README.md              # Este archivo
+```
 
 ## Cómo ejecutar el proyecto
 
